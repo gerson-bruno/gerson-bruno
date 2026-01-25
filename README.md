@@ -1,36 +1,46 @@
-# 🙋🏻‍♂️ Gerson Bruno
-
 **`Desenvolvedor Front-end`**
 
+
 <p align="left">
-    <a href="https://www.youtube.com/@ogersonbruno?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+   <a href="https://www.instagram.com/gerson.bruno_" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/instagram.png"
+    alt="Instagram gerson.bruno_" title="Me siga no Instagram"
+    width="40"
+    style="margin-right: 10px;"
+  >
+</a>
+    <a href="https://www.linkedin.com/in/gerson-bruno/" target="_blank">
+      <img 
+     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png"
+     alt="LinkedIn Gerson Bruno" title="Conecte-se comigo no LinkedIn"
+     width="40"
+     style="margin-right: 10px;"
+      >
     </a>
-    <a href="https://www.youtube.com/@ogersonbruno">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/gerson-bruno?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="https://discord.gg/EAa5ZbNw">
+      <img 
+     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/discord.png"
+     alt="Discord Gerson Bruno" title="Me adicione no Discord"
+     width="40"
+      >
     </a>
-    <a href="https://github.com/gerson-bruno?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="https://wa.link/00ywzj">
+      <img 
+     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png"
+     alt="WhatsApp Gerson Bruno" title="Fale comigo no WhatsApp"
+     width="40"
+     style="margin-left: 10px;"
+      >
     </a>
+    <a href="mailto:gersonbrunobaptista@gmail.com">
+      <img 
+     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png"
+     alt="Email Gerson Bruno" title="Envie-me um email"
+     width="40"
+     style="margin-left: 10px;"
+      >
+
 </p>
 
 ---
@@ -109,18 +119,17 @@
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gerson-bruno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=gerson-bruno&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&include_all_commits=true&locale=pt-br"
+/>
+
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-bruno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-bruno&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
 
 </p>
