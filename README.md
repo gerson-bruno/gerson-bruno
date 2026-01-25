@@ -1,18 +1,15 @@
 **`Desenvolvedor Front-end`**
 
-<div align="left">
-<a href="https://www.instagram.com/gerson.bruno_" target="_blank">
-<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/instagram.png" alt="Instagram" title="Instagram" width="40" style="margin-right:10px;">
-</a><a href="https://www.linkedin.com/in/gerson-bruno/" target="_blank">
-<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" style="margin-right:10px;">
-</a><a href="https://discord.gg/EAa5ZbNw" target="_blank">
-<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/discord.png" alt="Discord" title="Discord" width="40" style="margin-right:10px;">
-</a><a href="https://wa.link/00ywzj" target="_blank">
-<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" alt="WhatsApp" title="WhatsApp" width="40" style="margin-right:10px;">
-</a><a href="mailto:gersonbrunobaptista@gmail.com">
-<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png" alt="Email" title="Email" width="40">
-</a>
-</div>
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/instagram.png" width="40" />](https://www.instagram.com/gerson.bruno_)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="40" />](https://www.linkedin.com/in/gerson-bruno/)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/discord.png" width="40" />](https://discord.gg/EAa5ZbNw)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" width="40" />](https://wa.link/00ywzj)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png" width="40" />](mailto:gersonbrunobaptista@gmail.com)
+
 
 ---
 
@@ -89,17 +86,19 @@
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=gerson-bruno&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&include_all_commits=true&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=gerson-bruno&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&include_all_commits=true"
 />
+
 
 
 <img 
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-bruno&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=compact&custom_title=Tecnologias&langs_count=9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-bruno&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
 />
+
 
 </p>
