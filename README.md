@@ -2,9 +2,6 @@
 
 **`Desenvolvedor Front-end`**
 
-Estudante de Análise e Desenvolvimento de Sistemas.
-Em transição da fisioterapia para a área de tecnologia, com foco em desenvolvimento front-end. <br>
-
 <p align="left">
     <a href="https://www.youtube.com/@ogersonbruno?sub_confirmation=1">
         <img 
