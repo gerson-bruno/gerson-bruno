@@ -1,47 +1,18 @@
 **`Desenvolvedor Front-end`**
 
-
-<p align="left">
-   <a href="https://www.instagram.com/gerson.bruno_" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/instagram.png"
-    alt="Instagram gerson.bruno_" title="Me siga no Instagram"
-    width="40"
-    style="margin-right: 10px;"
-  >
+<div align="left">
+<a href="https://www.instagram.com/gerson.bruno_" target="_blank">
+<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/instagram.png" alt="Instagram" title="Instagram" width="40" style="margin-right:10px;">
+</a><a href="https://www.linkedin.com/in/gerson-bruno/" target="_blank">
+<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" style="margin-right:10px;">
+</a><a href="https://discord.gg/EAa5ZbNw" target="_blank">
+<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/discord.png" alt="Discord" title="Discord" width="40" style="margin-right:10px;">
+</a><a href="https://wa.link/00ywzj" target="_blank">
+<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" alt="WhatsApp" title="WhatsApp" width="40" style="margin-right:10px;">
+</a><a href="mailto:gersonbrunobaptista@gmail.com">
+<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png" alt="Email" title="Email" width="40">
 </a>
-    <a href="https://www.linkedin.com/in/gerson-bruno/" target="_blank">
-      <img 
-     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png"
-     alt="LinkedIn Gerson Bruno" title="Conecte-se comigo no LinkedIn"
-     width="40"
-     style="margin-right: 10px;"
-      >
-    </a>
-    <a href="https://discord.gg/EAa5ZbNw">
-      <img 
-     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/discord.png"
-     alt="Discord Gerson Bruno" title="Me adicione no Discord"
-     width="40"
-      >
-    </a>
-    <a href="https://wa.link/00ywzj">
-      <img 
-     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png"
-     alt="WhatsApp Gerson Bruno" title="Fale comigo no WhatsApp"
-     width="40"
-     style="margin-left: 10px;"
-      >
-    </a>
-    <a href="mailto:gersonbrunobaptista@gmail.com">
-      <img 
-     src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png"
-     alt="Email Gerson Bruno" title="Envie-me um email"
-     width="40"
-     style="margin-left: 10px;"
-      >
-
-</p>
+</div>
 
 ---
 
@@ -130,6 +101,5 @@
   height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-bruno&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
-
 
 </p>
