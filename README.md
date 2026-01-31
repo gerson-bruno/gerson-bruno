@@ -80,25 +80,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-<img 
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=gerson-bruno&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&include_all_commits=true"
-/>
-
-
-
-<img 
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-bruno&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
-/>
-
-
-</p>
