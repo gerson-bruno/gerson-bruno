@@ -1,10 +1,6 @@
 **`Desenvolvedor Front-end`**
 
-[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/instagram.png" width="40" />](https://www.instagram.com/gerson.bruno_)
-&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="40" />](https://www.linkedin.com/in/gerson-bruno/)
-&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/discord.png" width="40" />](https://discord.gg/EAa5ZbNw)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" width="40" />](https://wa.link/00ywzj)
 &nbsp;&nbsp;
