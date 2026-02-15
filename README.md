@@ -53,12 +53,13 @@
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
