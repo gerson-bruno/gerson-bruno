@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Gerson
 
-**`Desenvolvedor Front-end`** focado na construção de aplicações web organizadas, funcionais e escaláveis.
+**`Desenvolvedor Front-end`** <br>
+focado na construção de aplicações web organizadas, funcionais e escaláveis.
 
 
 ---
