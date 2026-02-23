@@ -1,4 +1,7 @@
-**`Desenvolvedor Front-end`**
+# 👋 Olá, eu sou o Gerson
+
+**`Desenvolvedor Front-end`** focado na construção de aplicações web organizadas, funcionais e escaláveis.
+
 
 [<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="40" />](https://www.linkedin.com/in/gerson-bruno/)
 &nbsp;&nbsp;
