@@ -3,15 +3,7 @@
 **`Desenvolvedor Front-end`** focado na construção de aplicações web organizadas, funcionais e escaláveis.
 
 
-[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="40" />](https://www.linkedin.com/in/gerson-bruno/)
-&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" width="40" />](https://wa.link/00ywzj)
-&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png" width="40" />](mailto:gersonbrunobaptista@gmail.com)
-
-
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -79,4 +71,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+<br><br>
+
+---
+
+### 🧑🏻‍💻 Social
+
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="30" />](https://www.linkedin.com/in/gerson-bruno/)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" width="30" />](https://wa.link/00ywzj)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/gmail.png" width="30" />](mailto:gersonbrunobaptista@gmail.com)
+
+
+
+
+
 
