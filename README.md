@@ -80,7 +80,7 @@ focado na construção de aplicações web organizadas, funcionais e escaláveis
 
 ### 🧑🏻‍💻 Social
 
-[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="30" />](https://www.linkedin.com/in/gerson-bruno/)
+[<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/linkedin.png" width="30" />](https://www.linkedin.com/in/gerson-bruno-baptista/)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/gerson-bruno/assets/refs/heads/main/whatsapp.png" width="30" />](https://wa.link/00ywzj)
 &nbsp;&nbsp;
