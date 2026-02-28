@@ -60,7 +60,7 @@ Chat bot interativo com o usuário. O bot pode responder a perguntas de maneira 
 
 **Stack:** HTML • CSS • JavaScript • Node.js  
 
-[![Demo Online](https://img.shields.io/badge/GersonBot-Deploy-1081C2?style=flat-square&logo=pinboard&logoColor=white)](https://gerson-bruno.github.io/gersonbot/)  
+[![Demo Online](https://img.shields.io/badge/GersonBot-Deploy-1081C2?style=flat-square&logo=pinboard&logoColor=white)](https://gersonbot.onrender.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-D9822B?style=flat-square&logo=github&logoColor=white)](https://github.com/gerson-bruno/gersonbot)
 
 ---
