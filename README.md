@@ -29,6 +29,9 @@ Estudante de Análise e Desenvolvimento de Sistemas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" style="margin:50px; display:inline-block;" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerson-bruno&theme=default&hide_border=true" alt="Gerson's GitHub Streak" />
+</p>
 
 # 💻 Principais projetos:
 
@@ -62,6 +65,17 @@ Chat bot interativo com o usuário. O bot pode responder a perguntas de maneira 
 
 [![Demo Online](https://img.shields.io/badge/GersonBot-Deploy-1081C2?style=flat-square&logo=pinboard&logoColor=white)](https://gersonbot.onrender.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-D9822B?style=flat-square&logo=github&logoColor=white)](https://github.com/gerson-bruno/gersonbot)
+
+---
+
+#### Urban Blend 
+
+E-commerce de café desenvolvido durante o **Hackathon da Residência em TIC-12** pela **Universidade Federal do Ceará (UFC)**. O projeto foca em uma interface minimalista e funcional, com gerenciamento de estado para o carrinho de compras.
+
+**Stack:** Vue.js • Pinia • Tailwind CSS • Vite
+
+[![Demo Online](https://img.shields.io/badge/Urban--Blend-Deploy-1081C2?style=flat-square&logo=pinboard&logoColor=white)](https://gerson-bruno.github.io/urban-blend/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-D9822B?style=flat-square&logo=github&logoColor=white)](https://github.com/gerson-bruno/urban-blend)
 
 ---
 
