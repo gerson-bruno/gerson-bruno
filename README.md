@@ -42,7 +42,7 @@ Portfólio web responsivo com HTML semântico, interações dinâmicas em JavaSc
 
 **Stack:** HTML • CSS • JavaScript  
 
-[![Demo Online](https://img.shields.io/badge/Portfolio-Deploy-1081C2?style=flat-square&logo=pinboard&logoColor=white)](https://gerson-bruno.github.io/portfolio/)  
+[![Demo Online](https://img.shields.io/badge/Portfolio-Deploy-1081C2?style=flat-square&logo=pinboard&logoColor=white)](https://www.gersonbruno.dev/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-D9822B?style=flat-square&logo=github&logoColor=white)](https://github.com/gerson-bruno/portfolio?tab=readme-ov-file)
 
 ---
