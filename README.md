@@ -5,13 +5,13 @@
 
 <div>
 <p align="center">
-Criando interfaces modernas que aproximam pessoas e ideias. 
-</p>
-<p align="center">
-Apaixonado por tecnologia e criação de interfaces.
+Criando interfaces que aproximam pessoas e ideias.
 </p>
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas.
+</p>
+<p align="center">
+Cursando Design UX pelo Google.
 </p>
 
 </div>
